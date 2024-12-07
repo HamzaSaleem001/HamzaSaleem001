@@ -1,5 +1,13 @@
 <h1>Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, I'm Hamza Saleem </h1>
 <h3>A Passionate Data Engineer From Pakistan</h3>
+
+<a href="mailto:hamza.saleem141@outlook.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" />
+</a>
+<a href="https://www.linkedin.com/in/hamza-Saleem-03557b216/" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"  />
+</a>
+<br />
 <!--
 **HamzaSaleem001/HamzaSaleem001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
