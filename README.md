@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hamza </h1>
-<h3 align="center">A Passionate Data Engineer </h3>
+<h1>Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, I'm Hamza Saleem </h1>
+<h3>A Passionate Data Engineer From Pakistan</h3>
 <!--
 **HamzaSaleem001/HamzaSaleem001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
