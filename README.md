@@ -8,6 +8,14 @@
   <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"  />
 </a>
 <br />
+
+### About Me 🌐
+
+🎓 Aspiring Data Engineer with 1.5+ years of professional experience in **Data Analysis** and **Data Engineering**. <br />
+🔨 Proficient in tools like **Power BI**, **SSRS**, **SSIS**, and **Azure Cloud** for building robust data solutions.<br />
+📊 Passionate about deriving insights from data and delivering impactful reports and dashboards.<br />
+🌟 Eager to learn and explore new technologies like **Machine Learning**, **Big Data**, and **Cloud Data Engineering**.<br />
+
 <!--
 **HamzaSaleem001/HamzaSaleem001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
