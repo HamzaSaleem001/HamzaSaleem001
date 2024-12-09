@@ -11,10 +11,10 @@
 
 ### About Me 🌐
 
-🎓 Aspiring Data Engineer with 1.5+ years of professional experience in **Data Analysis** and **Data Engineering**. <br />
-🔨 Proficient in tools like **Power BI**, **SSRS**, **SSIS**, and **Azure Cloud** for building robust data solutions.<br />
-📊 Passionate about deriving insights from data and delivering impactful reports and dashboards.<br />
-🌟 Eager to learn and explore new technologies like **Machine Learning**, **Big Data**, and **Cloud Data Engineering**.<br />
+- 🎓 Aspiring Data Engineer with 1.5+ years of professional experience in **Data Analysis** and **Data Engineering**. <br />
+- 🔨 Proficient in tools like **Power BI**, **SSRS**, **SSIS**, and **Azure Cloud** for building robust data solutions.<br />
+- 📊 Passionate about deriving insights from data and delivering impactful reports and dashboards.<br />
+- 🌟 Eager to learn and explore new technologies like **Machine Learning**, **Big Data**, and **Cloud Data Engineering**.<br />
 
 ### My Experiences 💼
 
@@ -22,18 +22,18 @@
     Developing reports and dashboards using SSRS, Power BI, and SQL, with expertise in Azure Cloud.
 - **Business Appliaction Officer** (1 Year) – Domino's Pizza Pakistan <br />
     Managed business data and reporting, ensuring operational efficiency and data-driven decisions.
+  
+### Technical Skills 🛠️
 
-<!--
-**HamzaSaleem001/HamzaSaleem001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔: Python, SQL, Apache Spark, C++ and C.
+- 𝑳𝒊𝒃𝒓𝒂𝒓𝒊𝒆𝒔: NumPy, Pandas, Matplotlib Pyspark, Seaborn, Sklearn and NLTK.
+- 𝑻𝒐𝒐𝒍𝒔 : PowerBI, SSRS, SSIS, Talend Studio, PowerBi Report Builder and Git.
+- 𝑪𝒍𝒐𝒖𝒅 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎𝒔:  Microsoft Azure.
 
-Here are some ideas to get you started:
+### Certifications 📜 
+- <a href="https://www.coursera.org/account/accomplishments/verify/NYZ9EZK3T9ET" target="_blank">Power BI for Beginners: Designing a Data Model</a> (Coursera)
+- <a href="https://www.coursera.org/account/accomplishments/verify/T4YB8DH7ACV8" target="_blank">Microsoft Azure for Data Engineering</a> (Coursera)
+- <a href="https://www.coursera.org/account/accomplishments/verify/YAKQ64ZL7XYN" target="_blank">SQL for Data Science</a> (Coursera)
+- <a href="https://www.coursera.org/account/accomplishments/verify/54G85JBAY9BM" target="_blank">Foundations: Data, Data, Everywhere</a> (Coursera)
+- <a href="https://www.coursera.org/account/accomplishments/verify/SSAM6KLNQLAY" target="_blank">Programming for Everybody (Getting Started with Python)</a> (Coursera)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
