@@ -16,6 +16,13 @@
 📊 Passionate about deriving insights from data and delivering impactful reports and dashboards.<br />
 🌟 Eager to learn and explore new technologies like **Machine Learning**, **Big Data**, and **Cloud Data Engineering**.<br />
 
+### My Experiences 💼
+
+- **Business Intelligence Programmer** (6 Months) – Centegy Technologies <br />
+    Developing reports and dashboards using SSRS, Power BI, and SQL, with expertise in Azure Cloud.
+- **Business Appliaction Officer** (1 Year) – Domino's Pizza Pakistan <br />
+    Managed business data and reporting, ensuring operational efficiency and data-driven decisions.
+
 <!--
 **HamzaSaleem001/HamzaSaleem001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
