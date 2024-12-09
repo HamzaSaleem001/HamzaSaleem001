@@ -37,3 +37,9 @@
 - <a href="https://www.coursera.org/account/accomplishments/verify/54G85JBAY9BM" target="_blank">Foundations: Data, Data, Everywhere</a> (Coursera)
 - <a href="https://www.coursera.org/account/accomplishments/verify/SSAM6KLNQLAY" target="_blank">Programming for Everybody (Getting Started with Python)</a> (Coursera)
 
+### Follow
+- To follow my GitHub, Search by username **`HamzaSaleem001`**.
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaSaleem001)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
